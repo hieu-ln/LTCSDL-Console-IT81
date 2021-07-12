@@ -1,0 +1,20 @@
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\LTCSDL Console IT02.exe
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\LTCSDL Console IT02.deps.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\LTCSDL Console IT02.runtimeconfig.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\LTCSDL Console IT02.runtimeconfig.dev.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\LTCSDL Console IT02.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\LTCSDL Console IT02.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.genruntimeconfig.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.csprojAssemblyReference.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_Console\LTCSDL Console IT02\LTCSDL Console IT02\obj\Debug\netcoreapp3.1\LTCSDL Console IT02.csproj.CopyComplete
